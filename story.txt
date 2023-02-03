@@ -1,0 +1,105 @@
+Cutscene 1: broken ass buildings, smoky atmosphere, sand dune, sorrowful winds
+
+narrator(at a slow pace): "It is the year 2025. Mankind has succumbed to its greed resulting in the destruction of everything around it. I won’t be too dramatic about it, all the plants died. DEAD. NEHEHEHEHEHEHE" 
+
+Cutscene 2: fucked up earth, two meteorites flying from opposite sides in space, crash onto the planet, craters happen, BOOM BOOM EVERYWHERE. 
+MC wakes up from sleep due to the crash sound. 
+
+Game Scene 1: MC gets the choice to go east or west and he can’t go back after moving in either direction. (east is dark, west is light)
+*After the selection*
+Tutorial
+Based on the choice of the seed, a cutscene will be invoked. A bright cutscene would be invoked for light and a dark one for dark. 
+*Tutorial ends*
+After the user touches the seed, they get a SPECIAL POWER :0 
+And suddenly…. *a voice inside his head goes*, “this planet….this planet is dying…The 9s must be defeated to get the elixir and save the world and, it’s all down to you. It’s only you who can do it.”
+
+Day 1
+Defeats small creatures, reaches the boss.
+1st boss: smog. (smug)
+Smog dialogues :
+
+Intro:  “Do you really think you can stop me, little one? You’re literally swinging at air. MWAHAHAHAHAHAHAHA”
+Half health: “You may think you are hurting me BUT you can’t hurt something which you can’t touch MWAHAHAHAHAHAHA”
+Died: “aghhhhh- You may have stopped me….. But 8 more still stand.” *fades*
+*elixir scene happens*
+
+Day 2
+Defeats small creatures and reaches the boss
+2nd boss: Plastic (cute)
+Intro: “nyaannnn- don’t hurt meh please TwT, Let’s try to be friends 👉👈”
+Half health: “nyaaaan- that’s so wuuuude of you why are you hurting meeeee (in a cute crying tone),???””
+Died: “That was so mweaaaan….. Plastic no likey you .”
+
+
+
+Day 3
+Reaches boss
+3rd Boss: Sand (dumb)
+Intro: “hmmmmmm? (quizically) what’s happening? Why am i here again? I was just at mama’s”
+Half health: “hmmmmm… that tickles ……maybe i should hit back (thinks)”
+Died: “why do i see granny calling meh- HON? (thinks again)” *fades*
+
+Day 4
+Reaches boss
+4th boss: sludge
+Intro: “*phone rings* (picks up) Hello, You have reached the maestro. Please don’t hold a grudge because you can’t defeat the sludge haha”
+Half health: “you can’t go against the laws bby because, the sludge is the judge.”
+Died: “Damn. You really turned the sludge into chocolate fudge.” *fades* 
+
+Day 5
+Reaches boss
+5th boss: Acid Rain (sad)
+Intro: “just kill me, i want to die anyway. My ex said I am really toxic-”
+Half Health: “Sometimes you just gotta pretend that everything is okay”.
+Died: “Peace, finally.” *fades*
+
+Day 6
+Reaches boss
+6th boss: construction (friendly)
+Intro: “Finally! A worthy opponent! Our Battle will be legendary!”
+Half health: “ugh- I am feeling a bit rusty today. Maybe my joints need some lubrication”
+Died: “Congrats kid! You have finally done it! ” *fades*
+
+Day 7
+Reaches boss
+7th boss: chemicals (mad scientist)
+Intro: “be careful, I might cause a reaction within you *winks*”
+Half health: “i sense a nice chemistry between us”
+Died: “Your actions have diluted me” *fades*
+
+Day 8
+Reaches boss
+8th boss: Computer (full smart)
+Intro: “I am much more smarter than those fools you faced earlier. It won’t be that easy this time HEHEHEHAAHA”
+Half health: “in case you haven’t noticed, you have fallen into my trap”
+Died: “System error 404, life.exe not found, crash!” *fades*
+
+* A random gardener appears*
+Gardener: “This is the last time you get the chance for a nice grooming before the final battle. Would you like a cut?
+
+if(ans == “yes”) giveCut();
+Else print(“the game devs still want you to have a cut”) => {GiveCut();}
+
+Gardener: “I like your cut, G” 
+*Gardener disappears*
+
+Day 9
+Boss: Man
+Intro: “I don’t understand what i did wrong in the first place. I was only making my own life easier but you- YOU HAD TO GO AND RUIN EVERYTHING! NOW, this is the time for you to pay…..WITH YOUR LIFE” *attacks with full force*
+Half health: “The more you hurt me, I only grow stronger”
+Narattor: “Bro- that’s such a cliched line”
+Man: “SHUUUUT UPP” *attacks with full force again*
+Dies: “I understand i have wronged and I must now die for my sins”
+
+if(choices == “bad”) badCutscene(black seed takes over the entire good seed);
+The Gardener enters and says “This was not supposed to happen”
+*TRANSFORMS INTO A GOD*
+Narrator (god) *snaps his fingers*
+All the game files deletes. THE END.
+
+if(choices==”good”) good cutscene plays. The white seed takes over the entire black seed.
+
+Gardener:”Well done me seed, you have succeed” *Awkward silence*
+Gardener:”ahem ahem, moving on…So, Congrats on saving the world! I am so relieved that I won’t have to tap into my other side hehe, ifykyk”. The End.
+
+

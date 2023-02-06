@@ -1,0 +1,83 @@
+ <GAME NAME>
+
+ Created by: The Chupacabras
+
+
+=====
+Team Members
+=====
+
+1. Akshat Jain
+2. Bhavy Bhatnagar
+3. Debargha Das
+4. Divyansh Chauhan
+5. Harshvardhan Sharma
+6. Pratik Kumar 🏳‍🌈
+
+
+===========
+Story Creators/Directors
+===========
+
+Bhavy Bhatnagar
+Debargha Das
+Akshat Jain
+Harshvardhan Sharma
+
+======
+Sfx
+=====
+
+All the awesome OSTs were created by the one and only, one for all and, all for one. 
+"AKSHAT JAIN"!
+
+=========
+Vfx
+========
+
+Sprite Assets: Harshvardhan Sharma
+	Debargha Das
+	Akshat Jain
+	Bhavy Bhatnagar
+
+Animations: Akshat Jain 
+	    Harshvardhan Sharma
+
+
+===============
+Level Creators
+=================
+
+Level Designers: Bhavy Bhatnagar
+		 Divyansh Chauhan
+		 Akshat Jain
+		 Pratik Kumar 🏳‍🌈
+
+Textures: Harshvardhan Sharma
+
+Title Screen and Credits Screen: Debargha Das
+
+=============
+Level Scrpting
+=============
+1. Divyansh Chauhan
+2. Akshat Jain
+3. Bhavy Bhatnagar
+
+===============
+Sofwares used
+===============
+
+Engine used: Unreal Engine 4 (4.27.2)
+Sfx: FL Studio
+Vfx: Adobe After Effects 2022, Adobe Illustrator 2022, Adobe Photoshop 2022
+sprites & sprite animation: Aseprites
+
+"THANK YOU FOR PLAYING :)"
+:- The Chupacabras
+
+
+
+
+
+
